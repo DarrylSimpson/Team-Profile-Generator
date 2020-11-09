@@ -61,17 +61,16 @@
 
 # Usage
 
-## Video Instructions
+## Video Instructions (click)
 
-
+[![video](assets/images/image01.png)](https://drive.google.com/file/d/1iPZkxWzFUAgZeTukpS7eqL0BK4NP2xmc/view?usp=sharing "video")
 
 ## Pictures
 
-![ScreenShot1of3]()
+![ScreenShot1of3](assets/images/image01.png)
 
-![ScreenShot2of3]()
+![ScreenShot2of3](assets/images/image02.png)
 
-![ScreenShot3of3]()
 
 
 
